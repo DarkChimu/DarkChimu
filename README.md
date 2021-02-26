@@ -27,13 +27,13 @@ const darkie = {
         backEnd: {
             js: ["node", "express", "adonis"]
         },
-        devOps: ["Docker🐳"],
+        devOps: ["js", "Docker🐳"],
         databases: ["PostgreSQL", "MySql", "sqlite"],
         misc: ["redis","php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "PWA", "SPA"],
     currentProject: "I am developing a FullStack complete ToDo Suite",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
 };
 ```
 
