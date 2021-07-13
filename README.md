@@ -21,7 +21,7 @@ const darkie = {
     askMeAbout: ["web dev", "tech", "app dev", "game dev"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Vue", "Nuxt", "React Native"],
             css: ["materialize", "vuetify", "bootstrap", "bulma"]
         },
         backEnd: {
@@ -32,7 +32,7 @@ const darkie = {
         misc: ["redis","php"]
     },
     architecture: ["Serverless Architecture", "PWA", "SPA"],
-    currentProject: "I am developing a FullStack complete ToDo Suite",
+    currentProject: "I'm moving to Typescript right now",
     funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
 };
 ```
