@@ -21,14 +21,14 @@ const darkie = {
     askMeAbout: ["web dev", "tech", "app dev", "game dev"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Nuxt", "React Native"],
-            css: ["materialize", "vuetify", "bootstrap", "bulma"]
+            js: ["react", "next", "vue", "nuxt", "react native"],
+            css: ["material-ui", "vuetify", "bootstrap", "bulma"]
         },
         backEnd: {
             js: ["node", "express", "adonis"]
         },
         devOps: ["js", "Docker🐳"],
-        databases: ["PostgreSQL", "MySql", "sqlite"],
+        databases: ["PostgreSQL", "MySql", "Sqlite"],
         misc: ["redis","php"]
     },
     architecture: ["Serverless Architecture", "PWA", "SPA"],
