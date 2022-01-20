@@ -1,6 +1,6 @@
 <h2>Welcome! ゴゴゴゴ</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://www.workifit.com/blog/static/1e69b64e49b07e5068e951002ceb316c/0_K2WLMTExLyida7OR.gif" width="230">
 <p>I'm Danyhover Bruzual aka Darkie <br> 
 <em>Software Developer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
 </em>
