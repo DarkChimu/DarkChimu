@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>I'm Danyhover Bruzual aka Darkie <br> 
-<em>Software Developer at <a href="https://giving.agency/es/">Giving Agency</a>
+<em>Software Developer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
 </em>
 </p>
 
