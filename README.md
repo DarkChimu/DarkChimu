@@ -2,7 +2,7 @@
 
 <img align='right' src="https://www.workifit.com/blog/static/1e69b64e49b07e5068e951002ceb316c/0_K2WLMTExLyida7OR.gif" width="230">
 <p>I'm Danyhover Bruzual aka Darkie <br> 
-<em>Software Developer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
+<em>Software Engineer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
 </em>
 </p>
 
@@ -16,9 +16,9 @@
 
 ```javascript
 const darkie = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "game dev"],
+    pronouns: "he" | "him",
+    code: ["javascript", "javascript", "c#", "python"],
+    askMeAbout: ["web dev", "tech", "app dev", "game dev", "machine learning"],
     technologies: {
         frontEnd: {
             js: ["react", "next", "vue", "nuxt", "react native"],
@@ -27,11 +27,12 @@ const darkie = {
         backEnd: {
             js: ["node", "express", "adonis"]
         },
-        devOps: ["js", "Docker🐳"],
-        databases: ["PostgreSQL", "MySql", "Sqlite"],
-        misc: ["redis","php"]
+        devOps: ["javascript"],
+        virtualization: ["docker🐳"]
+        databases: ["postgreSQL", "mysql", "sqlite", "redis"],
+        misc: ["php", "python"]
     },
-    architecture: ["Serverless Architecture", "PWA", "SPA"],
+    architecture: ["serverless", "pwa", "spa"],
     currentProject: "I'm moving to Typescript right now",
     funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
 };
