@@ -28,7 +28,7 @@ const darkie = {
             js: ["node", "express", "adonis"]
         },
         devOps: ["javascript"],
-        virtualization: ["docker🐳"]
+        virtualization: ["docker🐳"],
         databases: ["postgreSQL", "mysql", "sqlite", "redis"],
         misc: ["php", "python"]
     },
