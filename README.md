@@ -1,6 +1,6 @@
 <h2>Welcome! ゴゴゴゴ</h2>
 
-<img align='right' src="https://www.workifit.com/blog/static/1e69b64e49b07e5068e951002ceb316c/0_K2WLMTExLyida7OR.gif" width="230">
+<img align='right' src="https://cdn-icons-png.flaticon.com/512/390/390178.png" width="230">
 <p>I'm Danyhover Bruzual aka Darkie <br> 
 <em>Software Engineer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
 </em>
@@ -12,7 +12,7 @@
 <!--![](https://visitor-badge.glitch.me/badge?page_id=DarkChimu.DarkChimu)-->
 <!--![Waka Readme](https://github.com/DarkChimu/Darkchimu/workflows/Waka%20Readme/badge.svg) -->
 
-### <img src="https://cdn-icons-png.flaticon.com/512/390/390178.png" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const darkie = {
