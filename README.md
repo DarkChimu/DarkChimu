@@ -17,23 +17,25 @@
 ```javascript
 const darkie = {
     pronouns: "he" | "him",
-    code: ["javascript", "javascript", "c#", "python"],
+    code: ["typescript", "dart", "c#", "python", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "game dev", "machine learning"],
     technologies: {
         frontEnd: {
             js: ["react", "next", "vue", "nuxt", "react native"],
-            css: ["material-ui", "vuetify", "bootstrap", "bulma"]
+            css: ["material-ui", "vuetify", "bootstrap", "bulma"],
+            dart: ["flutter"]
         },
         backEnd: {
-            js: ["node", "express", "adonis"]
+            js: ["node", "express", "adonis", "laravel"]
         },
+        services: ["firebase", "AWS"],
         devOps: ["javascript"],
         virtualization: ["docker🐳"],
         databases: ["postgreSQL", "mysql", "sqlite", "redis"],
-        misc: ["php", "python"]
+        misc: ["python"]
     },
     architecture: ["serverless", "pwa", "spa"],
-    currentProject: "I'm moving to Typescript right now",
+    currentProjects: ["EXO Band Mobile App", "Taxi / Client App in Production"],
     funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
 };
 ```
