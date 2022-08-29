@@ -35,7 +35,7 @@ const darkie = {
         misc: ["python"]
     },
     architecture: ["serverless", "pwa", "spa"],
-    currentProjects: ["EXO Band Mobile App", "Taxi / Client App in Production"],
+    currentProjects: ["Native Coded PSX Game", "Food Delivery App"],
     funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
 };
 ```
