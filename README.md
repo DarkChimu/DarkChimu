@@ -1,6 +1,6 @@
 <h2>Welcome! ゴゴゴゴ</h2>
 
-<img align='right' src="https://cdn-icons-png.flaticon.com/512/390/390178.png" width="230">
+<img align='right' src="https://i.imgur.com/G2sHHgp.png" width="230">
 <p>I'm Danyhover Bruzual aka Darkie <br> 
 <em>Software Engineer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
 </em>
