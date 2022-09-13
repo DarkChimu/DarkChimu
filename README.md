@@ -30,7 +30,7 @@ const darkie = {
             ai: ["brainJS"]
         },
         services: ["firebase", "AWS"],
-        deploy_systems: ["github actions", "heroku", "firebase", "google play console"],
+        deploy_systems: ["github actions", "heroku", "firebase", "G-play console"],
         virtualization: ["docker🐳"],
         databases: ["postgresql", "mysql", "sqlite", "redis"],
         misc: ["python"]
