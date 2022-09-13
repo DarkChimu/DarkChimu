@@ -21,20 +21,21 @@ const darkie = {
     askMeAbout: ["web dev", "tech", "app dev", "game dev", "machine learning"],
     technologies: {
         frontEnd: {
-            js: ["react", "next", "vue", "nuxt", "react native"],
+            js: ["react", "next", "vue", "nuxt", "react native", "ionic"],
             css: ["material-ui", "vuetify", "bootstrap", "bulma"],
             dart: ["flutter"]
         },
         backEnd: {
-            js: ["node", "express", "adonis", "laravel"]
+            js: ["node", "express", "adonis", "laravel"],
+            ai: ["brainJS"]
         },
         services: ["firebase", "AWS"],
-        devOps: ["javascript"],
+        deploy_systems: ["github actions", "heroku", "firebase", "google play console"],
         virtualization: ["docker🐳"],
-        databases: ["postgreSQL", "mysql", "sqlite", "redis"],
+        databases: ["postgresql", "mysql", "sqlite", "redis"],
         misc: ["python"]
     },
-    architecture: ["serverless", "pwa", "spa"],
+    architecture: ["serverless", "pwa", "spa", "clean"],
     currentProjects: ["Native Coded PSX Game", "Food Delivery App"],
     funFact: "I hate repeating myself. Muda (It's useless) - Giorno Giovanna"
 };
