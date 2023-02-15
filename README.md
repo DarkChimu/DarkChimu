@@ -26,9 +26,10 @@ const darkie = {
             dart: ["flutter"]
         },
         backEnd: {
-            js: ["node", "express", "adonis", "laravel"],
+            js: ["node", "express", "adonis", "laravel", "strapi"],
             ai: ["brainJS"]
         },
+        testing: ['cypress'],
         services: ["firebase", "AWS"],
         deploy_systems: ["github actions", "heroku", "firebase", "G-play console"],
         virtualization: ["docker🐳"],
