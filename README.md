@@ -2,7 +2,7 @@
 
 <img align='right' src="https://i.imgur.com/G2sHHgp.png" width="230">
 <p>I'm Danyhover Bruzual aka Darkie <br> 
-<em>Software Engineer, Available for Hiring! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
+<em>Software Engineer, Available for Freelance! <!--<a href="https://giving.agency/es/">Giving Agency</a> -->
 </em>
 </p>
 
